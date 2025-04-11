@@ -1,6 +1,6 @@
 function hello() {
   
-  return "Hola now!";
+  return "Hola";
 }
 
 module.exports = hello;
